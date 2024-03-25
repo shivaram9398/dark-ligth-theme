@@ -1,0 +1,30 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+.home-img {
+  height: 220px;
+}
+
+.bg {
+  background-color: black;
+}
+
+.l {
+  color: white;
+}
+
+.cen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.b {
+  color: black;
+}
